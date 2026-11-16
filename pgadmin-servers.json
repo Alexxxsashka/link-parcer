@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "LinkedIn Parser (local)",
+      "Group": "Servers",
+      "Host": "127.0.0.1",
+      "Port": 55437,
+      "MaintenanceDB": "linkedin_jobs",
+      "Username": "linkedin_app",
+      "SSLMode": "prefer"
+    }
+  }
+}
